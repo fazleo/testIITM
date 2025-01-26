@@ -1,0 +1,9 @@
+name: cheker
+
+on: push
+
+jobs:
+  test:
+    steps:
+      - name: 21f1007111@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
